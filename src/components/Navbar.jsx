@@ -28,7 +28,7 @@ onClick={()=>{
   <span>| Somyajeet Gupta Chowdhury</span>
 </p>
  </Link>
- <ul className='list-none hidden sm:flex flex-row gap-10'>
+ <ul className='list-none hidden sm:flex flex-row gap-8'>
   {navLinks.map((link)=>{
     return(
     <li
